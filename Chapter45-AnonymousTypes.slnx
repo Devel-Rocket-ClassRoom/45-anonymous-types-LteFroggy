@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CodingPractice\CodingPractice.csproj" />
+  <Project Path="MovieRanking\MovieRanking.csproj" />
+  <Project Path="WeatherReport\WeatherReport.csproj" />
+  <Project Path="ConfigMerge\ConfigMerge.csproj" />
+</Solution>
